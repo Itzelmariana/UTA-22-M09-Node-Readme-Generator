@@ -48,15 +48,8 @@ function generateMarkdown({
   solve,
   learn,
   install,
-  titleImg1,
-  titleImg2,
-  titleImg3,
   instructions,
-  pathImg1,
-  pathImg2,
-  pathImg3,
   collaborators,
-  github,
   sources,
   license,
   features,
@@ -69,11 +62,7 @@ function generateMarkdown({
 ${renderLicenseBadge(license)}
 
 ## Description
- ${description}
-- ${motivation}
-- ${why}
-- ${solve}
-- ${learn}
+ ${description}. ${motivation}. ${why}. ${solve}. ${learn}
 
 ## Installation
 ${install}
@@ -82,17 +71,6 @@ ${install}
 
 ${instructions}
 
-${titleImg1}
-
- ![${titleImg1}](${pathImg1})
-
- ${titleImg2}
-
- ![${titleImg2}](${pathImg2})
-
- ${titleImg3}
-
- ![${titleImg3}](${pathImg3})
 
 
 ## Credits
