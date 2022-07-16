@@ -34,7 +34,7 @@ function renderLicenseSection(license) {
     return "";
   }
 
-  return `"This application is under the [${license}](${renderLicenseLink(
+  return `This application is under the [${license}](${renderLicenseLink(
     license
   )}) license.`;
 }
@@ -62,7 +62,7 @@ function generateMarkdown({
 ${renderLicenseBadge(license)}
 
 ## Description
- ${description}. ${motivation}. ${why}. ${solve}. ${learn}
+ ${description} ${motivation} ${why} ${solve} ${learn}
 
 ## Installation
 ${install}
