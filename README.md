@@ -57,6 +57,6 @@ The technologies used in this project are as follow:
 
 Any improvements in the project are very welcome and appreciated . Make sure you email me your ideas at my email below.
 
-# Questions
+## Questions
 
 If you have any questions you can reach out to me at it.cole@hotmail.com
