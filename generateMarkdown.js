@@ -71,8 +71,6 @@ ${install}
 
 ${instructions}
 
-
-
 ## Credits
 
 ${collaborators}
@@ -95,7 +93,7 @@ ${contribute}
 
 ${test}
 
-# Questions
+## Questions
 
 If you have any questions you can reach out to me at ${email}
 `;
