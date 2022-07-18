@@ -33,6 +33,10 @@ In order to exit editor window press “Esc” and type :wq
 6. Make sure you confirm the information and delete the section that did not apply for your project.
 7. Copy README.md file and paste it in your project
 
+Sample README.md
+
+![sample](docs/sample.png)
+
 ## Credits
 
 - The project questions are based on [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) article.
@@ -56,6 +60,12 @@ The technologies used in this project are as follow:
 ## How to Contribute
 
 Any improvements in the project are very welcome and appreciated . Make sure you email me your ideas at my email below.
+
+## Test
+
+Video demo
+
+![test](docs/video.gif)
 
 ## Questions
 
