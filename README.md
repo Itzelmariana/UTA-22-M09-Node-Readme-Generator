@@ -6,6 +6,13 @@
 
 This project generates a README.md file after answering 15 questions. The motivation for creating this tool is to facilitate the creation of READMEs for future projects. This project is designed to follow the guidelines for a professional README. It saves time and helps individuals to create a standardized document. Through this project I learned how computational tools can support the systemation of repetitive tasks in a faster and more efficient way.
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
 ## Installation
 
 Node is required.

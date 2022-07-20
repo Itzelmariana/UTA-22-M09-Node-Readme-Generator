@@ -64,6 +64,14 @@ ${renderLicenseBadge(license)}
 ## Description
  ${description} ${motivation} ${why} ${solve} ${learn}
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+
+
 ## Installation
 ${install}
 
