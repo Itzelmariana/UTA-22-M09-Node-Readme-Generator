@@ -69,4 +69,4 @@ Any improvements in the project are very welcome and appreciated . Make sure you
 
 ## Questions
 
-If you have any questions you can reach out to me at it.cole@hotmail.com
+If you have any questions you can reach out to me at email@me.com
