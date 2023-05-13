@@ -70,10 +70,8 @@ Any improvements in the project are very welcome and appreciated . Make sure you
 
 ## Test
 
-[Video demo](https://watch.screencastify.com/v/TPValF19DkB0pbQPKfhk)
+
 
 ![test](docs/video.gif)
 
-## Questions
 
-If you have any questions you can reach out to me at email@me.com
